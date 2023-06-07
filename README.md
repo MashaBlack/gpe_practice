@@ -1,2 +1,2 @@
 # gpe_practice
-parsers and loaders for gpe practice
+ETL for gpe practice
